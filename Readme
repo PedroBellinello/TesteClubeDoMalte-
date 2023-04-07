@@ -1,0 +1,13 @@
+Creio ter concluido o solicitado no teste o banco utilizado foi no mysql  criando a tabela com. Nome valor e etc como mencionado na imagem   
+
+Utilizando a rota padrão você tem acesso ao cadastro de produtos  
+
+Ao preencher os dados e cadastrar você recebe a mensagem de produto cadastrado e o mesmo é inserido no banco de dados 
+Acessando a rota: http://127.0.0.1:8000/editar-produto/18editar produto + id voce tem acesso ao formulário de edição 
+
+Após a edição você recebe a mensagem  e o produto é alterado no banco  
+
+acessando a rota http://127.0.0.1:8000/ver-produto/18ver produto + id voce tem acesso a página de visualização do produto cadastrado 
+
+Acessando a rota http://127.0.0.1:8000/excluir-produto/18excluir-produto + id voce tem acesso a exclusão do produto  
+Após a exclusão  o produto é eliminado do banco de dados  
